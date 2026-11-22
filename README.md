@@ -30,7 +30,7 @@
 브라우저 폼 → JavaScript `fetch('/api/plan')` → Python 서버리스 함수 → OpenAI API → JSON 응답 → 화면 표시. 빈 입력, API 오류, 30초 타임아웃을 사용자에게 안내합니다.
 
 ## 배포 URL
-배포 완료 후 여기에 실제 Vercel URL을 입력하세요: **[배포 URL 입력]**
+(https://a1-3-sage.vercel.app/#home)
 
 ## 프로젝트 구조
 ```text
